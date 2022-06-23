@@ -1,0 +1,47 @@
+{
+  "name": "test_code",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.8.4",
+    "@mui/styled-engine-sc": "^5.8.0",
+    "cra-template": "1.2.0",
+    "react": "^17.0.2",
+    "react-color": "^2.19.3",
+    "react-dom": "^17.0.2",
+    "react-redux": "^8.0.2",
+    "react-scripts": "5.0.1",
+    "react-simple-tree-menu": "^1.1.18",
+    "redux": "^4.2.0",
+    "styled-components": "^5.3.5",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
